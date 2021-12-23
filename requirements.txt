@@ -1,0 +1,10 @@
+Django==3.2.9
+djangorestframework==3.12.4
+djangorestframework-simplejwt==4.3.0
+django-cors-headers==3.10.0
+psycopg2==2.9.1
+PyJWT==2.1.0
+djoser==2.1.0
+pillow==8.4.0
+stripe==2.63.0
+django-heroku==0.3.1
